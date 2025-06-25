@@ -5,10 +5,7 @@ Real-time person detection, video recording, and alerting system for Raspberry P
 
 * 📸 Features
   *  ✅ Real-time person detection using MobileNet SSD
-
-  -✅ Real-time person detection using MobileNet SSD
-
-  -🎥 Automatically records 15-second video clips
+  * 🎥 Automatically records 15-second video clips
 
   -🔄 Converts .avi to .mp4 for better compatibility
 
