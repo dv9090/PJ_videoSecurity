@@ -3,17 +3,8 @@
 📂 Project: Home Security System with Object Detection
 Real-time person detection, video recording, and alerting system for Raspberry Pi using OpenCV and Discord webhooks.
 
-* Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
-
-- Bullet list
-              - Nested bullet
-                  - Sub-nested bullet etc
-          - Bullet list item 2 
-
--📸 Features
+* 📸 Features
+  *  ✅ Real-time person detection using MobileNet SSD
 
   -✅ Real-time person detection using MobileNet SSD
 
