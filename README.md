@@ -17,28 +17,29 @@ Real-time person detection, video recording, and alerting system for Raspberry P
 
   * 🔁 Uses Python threading to upload without blocking detection
 
-🛠️ Technologies Used
-Python
 
-OpenCV
+* 🛠️ Technologies Used
+  * Python
 
-MobileNet SSD
+  * OpenCV
 
-ffmpeg (via system call)
+  * MobileNet SSD
 
-Discord Webhooks
+  * ffmpeg (via system call)
 
-Raspberry Pi OS (tested on Pi 4)
+  * Discord Webhooks
 
-🚀 How It Works
-Motion is detected in the frame
+  * Raspberry Pi OS (tested on Pi 4)
 
-A person is identified using MobileNet SSD
+* 🚀 How It Works
+  * Motion is detected in the frame
 
-A 15-second video clip is recorded
+  * A person is identified using MobileNet SSD
 
-Video is converted to .mp4 format
+  * A 15-second video clip is recorded
 
-The clip is sent to a Discord channel using a webhook
+  * Video is converted to .mp4 format
 
-System continues to monitor in real time
+  * The clip is sent to a Discord channel using a webhook
+
+  * System continues to monitor in real time
